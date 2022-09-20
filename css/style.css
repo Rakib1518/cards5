@@ -1,0 +1,103 @@
+*{
+    padding: 0px;
+    margin:0px;
+}
+.card{
+    width:1200px;
+    margin-left: 160px;
+   
+
+}
+
+.content-top{
+    margin-left:50px;
+    margin-top:50px;
+    text-align: center;
+    width:25%;
+    box-sizing: border-box;
+    background: #f2f2f2;;
+    justify-content: center;
+    color:black;
+    box-shadow: 0px 14px 28px rgba(0,0,0,0.25), 0px 10px 10px rgba(0,0,0,0.22);
+    border-radius: 10px;
+   display: inline-block;
+
+}
+.content-top:hover{
+    box-shadow: 0px 3px 6px rgba(0,0,0,0.16), 0px 3px 6px rgba(0,0,0,0.23);
+}
+.content-top .image-top{
+    width:200px;
+    height:200px;
+    text-align: center;
+    margin:0 auto;
+    display: block;
+}
+
+.content-top .image-tope{
+    width:200px;
+    height:200px;
+    text-align: center;
+    margin:0 auto;
+    display: block;
+    box-sizing: border-box;
+    padding-top:20px;
+}
+.content-top .heading-top{
+    margin-top: 10px;
+    padding:10px;
+    font-weight: bolder;
+    font-size: 30px;
+    font-family: arial;
+}
+
+.content-top .headding-para{
+    padding:15px;
+    color: #b2bec3;
+}
+
+.content-top .rakib{
+    padding:10px;
+    font-size: 26px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color:black;
+}
+
+.content-top  .onorderlist{
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.content-top  .rak{
+    
+    font-family: sans-serif;
+    color:#fff;
+    font-size:26px ;
+    
+    margin-top:20px;
+    border:none;
+    background-color: aqua;
+    display: block;
+    width:300px;
+    height:50px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.onorderlist .lie{
+    padding:5px;
+    padding-top: 10px;
+}
+
+.fa{
+    font-size: 26px;
+}
+
+.content-top .onorderlist .lie{
+    color:#ff9f43;
+}
+.content-top .onorderlist .lie .ra{
+    
+    color:black;
+}
